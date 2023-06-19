@@ -17,7 +17,7 @@
     justify-content: center;
     align-items: center;
      border: 1px solid rgba(255, 255, 0, 0.537);
-     border-radius: 25px;
+     border-radius: 20px;
      margin: 5px;
      background-image: linear-gradient(to left top,rgba(148, 0, 211, 0.708), rgba(184, 135, 11, 0.488));
      transition: all ease 1s;
@@ -68,7 +68,7 @@
 button{
     width: 100%;
     padding: 8px;
-    border-radius: 10px;
+    border-radius: 12px;
     border: none;
     font-size: 16px;
     background-color: rgba(184, 184, 11, 0.855);
